@@ -19,7 +19,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
 ##
 
 - https://galoframe.netlify.app/
-- ⚽ **Dashboard Brasileirão** — Projeto de visualização e análise de dados do Campeonato Brasileiro utilizando Python e Streamlit.
+- https://brasileirao-analytics.onrender.com/
 
 ## Entre em contato comigo!
 
