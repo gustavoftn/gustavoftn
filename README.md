@@ -24,15 +24,18 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
 ## Entre em contato comigo!
 
 <div>
-  <a href="https://github.com/GustavoFortinii" target="_blank">
+  <a href="https://github.com/gustavoftn" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="mailto:gustavofortini013@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+  <a href="https://www.linkedin.com/in/gustavo-fortini-9637a044a/?utm_source=chatgpt.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/gusttaftn" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-   <a href = "mailto:gustavofortini013@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 
 </div>
