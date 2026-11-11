@@ -1,6 +1,6 @@
 # 👋 Oii! Eu sou o Gustavo!
 
-Estudante de **Sistemas de Informação na PUC Minas** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
+Estudante de **Sistemas de Informação na PUC Minas** e apaixonado por tecnologia.
 
 Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software, banco de dados e infraestrutura de TI. Estou sempre buscando aprender novas tecnologias e desenvolver projetos que contribuam para minha evolução profissional.
 
