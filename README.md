@@ -1,4 +1,4 @@
-# 👋 Oii! Eu sou o Gustavo Fortini!
+# 👋 Oii! Eu sou o Gustavo!
 
 Estudante de **Sistemas de Informação na PUC Minas** e apaixonado por tecnologia, programação e desenvolvimento de soluções.
 
