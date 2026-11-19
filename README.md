@@ -18,7 +18,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
 
 ##
 
-- https://galoframe.netlify.app/
+- https://galoday.vercel.app/
 - https://brasileiroanalytics.vercel.app/
 
 ## Entre em contato comigo!
